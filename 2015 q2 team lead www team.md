@@ -1,4 +1,4 @@
-# senior engineer, www team
+# team lead, www team
 
 [npmjs.com](https://www.npmjs.com) is growing quickly, with a million unique visitors every month and over 5MM page views. Having given it a totally new look and overhauled the backend over the last year, we launched [private modules](https://www.npmjs.com/private-modules) in April.
 
