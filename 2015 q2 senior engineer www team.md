@@ -6,7 +6,7 @@ Now we have a ton of ambitious plans for it, including team-management features,
 
 All these plans require we grow the www team from its current size of two to five people in 2015, and we want the first of those hires to be a senior engineer, capable of taking responsibility for the architecture of the site and leading the team.
 
-That means an engineer with experience working on big projects, able to make tricky architectural decisions and then successfully communicate and delegate the implementation. We want somebody who also had the inclination to handle the task juggling and messy human parts of keeping a group of smart, motivated individuals happy and productive. 
+That means an engineer with experience working on big projects, able to make tricky architectural decisions and then successfully communicate and delegate the implementation. We want somebody who also has the inclination to handle the task juggling and messy human parts of keeping a group of smart, motivated individuals happy and productive. 
 
 We know that's not every engineer's idea of a good time. If this isn't what you want, we're hiring two other engineers. But if you're worried that you're not experienced enough, we encourage you to apply -- let us make that call. The worst that can happen is that we'll hire you for one of the other positions.
 
