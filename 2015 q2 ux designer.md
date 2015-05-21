@@ -2,7 +2,7 @@
 
 We have a website. It's really big, and quite pretty these days. Under the hood, we rebuilt it completely, launching that new version back in April, when we introduced private modules. But we're just getting started.
 
-npmjs.com gets a million unique visitors every month and over 5MM pageviews, and has grown 200% in the last 12 months. People use it to find new modules, to read the documentation, and now they use it to manage their private modules as well.
+[npmjs.com](https://www.npmjs.com) gets a million unique visitors every month and over 5MM pageviews, and has grown 200% in the last 12 months. People use it to find new modules, to read the documentation, and now they use it to manage their private modules as well.
 
 In the near future we're going to launch our Organizations feature, and our users will be able to manage teams and package permissions from the website too. Soon after that we're going to be adding a bunch of new features to make it faster and easier to find the right package, by adding [curation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#collections) and [programmatic validation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#ecosystems) of packages, both of which will give us the new data we need to enhance the all-important search experience.
 
