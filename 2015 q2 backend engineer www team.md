@@ -8,4 +8,6 @@ All of this stuff relies on smart, well-designed APIs that integrate easily with
 
 We're not looking for a shopping list of languages and technologies. We're looking for people who are smart and get stuff done, who have a track record of understanding complicated problems and solving them. For this role in particular, it'll be important that you are a strong communicator and big-picture thinker, capable of weaving teams and systems together to achieve your goals. You probably won't be writing HTML and CSS, but it's a good idea if you care about websites.
 
+The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
+
 We have a strong preference for candidates who are local to our offices in Oakland, CA, but we are accepting exceptional remote candidates who have a proven track record of successful remote work.
