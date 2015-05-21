@@ -10,4 +10,6 @@ That means an engineer with experience working on big projects, able to make tri
 
 We know that's not every engineer's idea of a good time. If this isn't what you want, we're hiring two other engineers. But if you're worried that you're not experienced enough, we encourage you to apply -- let us make that call. The worst that can happen is that we'll hire you for one of the other positions.
 
+The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
+
 Because of the amount of face time involved in representing the team, we are not accepting remote applicants for this role. This will be based in our offices in Oakland, CA.
