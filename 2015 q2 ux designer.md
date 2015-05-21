@@ -10,6 +10,6 @@ These are chunky, challenging features, and we need somebody to help us design t
 
 We know that UX and UI are different skill sets and different jobs, so we know we're asking for a lot when we say we want both, and all other things being equal we will lean towards people who are stronger UX designers, and have good product ideas.
 
-We are *not* asking you to also be a developer: while you will be part of the engineering organization, because we believe design and engineering should collaborate closely, engineering skills are not a requirement of this job. If you like coding you are welcome to do it, but if you don't you can leave the HTML, CSS and JavaScript to the rest of the engineering team. However, we are a tool for developers, so somebody who understands developers and has worked on technical products before is going to be at an advantage.
+We are *not* asking you to also be a developer: while you will be part of the engineering organization — because we believe design and engineering should collaborate closely — engineering skills are not a requirement of this job. If you like coding you are welcome to do it, but if you don't you can leave the HTML, CSS and JavaScript to the rest of the engineering team. However, we are a tool for developers, so somebody who understands developers and has worked on technical products before is going to be at an advantage.
 
 This position will be based in our offices in Oakland, CA, and we are not looking for remote candidates for this position.
