@@ -8,7 +8,7 @@ In the near future we're going to launch our Organizations feature, and our user
 
 These are chunky, challenging features, and we need somebody to help us design the best experience for our users. npm's philosophy is to reduce friction, so a user experience that is minimal and gets out of their way, with smart defaults and simple, obvious workflows, is what we need.
 
-We know that UX and UI are different skill sets and different jobs, so we know we're asking for a lot when we say we want both, and all other things being equal we will lean towards people who are stronger UX designers, and have good product ideas.
+We know that UX and UI are different skill sets and different jobs, so we know we're asking for a lot when we say we want both, and all other things being equal we will lean towards people who are stronger UX designers, and have good product ideas. If there's more UI work than you can handle, we'll hire contractors to do design and you will be responsible for managing our relationship with them and approving their work.
 
 We are *not* asking you to also be a developer: while you will be part of the engineering organization — because we believe design and engineering should collaborate closely — engineering skills are not a requirement of this job. If you like coding you are welcome to do it, but if you don't you can leave the HTML, CSS and JavaScript to the rest of the engineering team. However, we are a tool for developers, so somebody who understands developers and has worked on technical products before is going to be at an advantage.
 
