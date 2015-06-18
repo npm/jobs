@@ -12,6 +12,6 @@ We want somebody who is comfortable with the role of a manager as a force multip
 
 You will absolutely need to be a great communicator, good at juggling tasks and priorities. And you'll need to have the kind of big-picture oversight skills to spot tasks and bugs that are slipping through the cracks, and making sure they get tackled before they become a drag on team momentum.
 
-The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
+The npm website is [open source](https://github.com/npm/newww), so the output of your team will open to the world, and handling contributions from external developers (people who don't work here regularly fix bugs in our website!) will also be your responsibility.
 
 Because of the amount of face time involved in representing the team, we are not accepting remote applicants for this role. This will be based in our offices in Oakland, CA.
