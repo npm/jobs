@@ -16,4 +16,4 @@ We're not looking for a shopping list of languages and technologies. We're looki
 
 The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
 
-We have a strong preference for candidates who are local to our offices in Oakland, CA, but we are accepting exceptional remote candidates who have a proven track record of successful remote work.
+Because this role relies on a great deal of human interaction to coordinate and collaborate with other teams, we are not accepting remote candidates for this role.
