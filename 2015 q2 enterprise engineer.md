@@ -40,4 +40,4 @@ consulting or technical support is useful, but not required.
 We prefer candidates who are local to our offices in downtown Oakland,
 California, but are open to remote work for the right candidate.  We
 cannot currently sponsor new work visas, though we can transfer
-existing H1-Bs, and TN-1s for Canadians.
+existing H1-Bs, and TN-1s.
