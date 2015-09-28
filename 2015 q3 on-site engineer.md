@@ -7,8 +7,8 @@ running at <https://registry.npmjs.org>.
 
 Since we had to build most of the parts in order to facilitate running
 the public registry, we started selling npm On-Site back in
-mid-2014.  Despite not having been a top company priority, it's been
-picked up by a few of the biggest companies in the world, and reflects
+mid-2014.  We are increasing our focus on npm On-Site, a product that's
+been picked up by a few of the biggest companies in the world, and reflects
 a very significant portion of npm, Inc.'s revenue.
 
 Our goal is for this product to eventually be absolutely trivial for
@@ -26,7 +26,7 @@ overlap almost entirely), and also assisting with the sales and
 onboarding process in order to get a feel for what matters most to our
 users.
 
-npm is an open-source focused company. Despite npm On-Site being one
+npm is an open-source focused company. Because npm On-Site is one
 of our flagship paid products, we hope to take steps towards open-sourcing
 many of its components. This will be an important aspect of your job.
 
