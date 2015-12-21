@@ -1,6 +1,6 @@
 ##Internship
 
-If you're currently in full-time education (class of 2017 or 2018) and looking for a summer internship with an open-source project that can also pay you, we are happy to say that we can offer you a place at npm, Inc. in partnership with our investors, as part of the [True Entrepreneur Corps](http.//www.trueventures.com/tec/) program.
+If you're currently in full-time undergraduate education (class of 2017 or 2018) and looking for a summer internship with an open-source project that can also pay you, we are happy to say that we can offer you a place at npm, Inc. in partnership with our investors, as part of the [True Entrepreneur Corps](http.//www.trueventures.com/tec/) program.
 
 We are looking primarily for enthusiasm and intellectual curiosity, but any experience with JavaScript and especially Node.js is obviously a big advantage.
 
