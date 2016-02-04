@@ -17,7 +17,7 @@ you" is not just marketing; it's a core company value.  Users
 frequently report our responsive and friendly support team as a key
 reason why they love our products.
 
-## about the role
+## is this you?
 
 The right people for this job combine empathy and communication skills
 with a passion for solving technical problems.  Experience with Open
