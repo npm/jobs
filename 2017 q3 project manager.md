@@ -56,9 +56,9 @@ You'll be working out of our headquarters in Oakland, California.
 While many of our team members are spread out around the globe, we
 will have a preference for local applicants, as this job will be much
 easier with direct real-time communication with a majority of our
-team.  Because we're spread out, experience with Slack or other chat
-systems is a huge plus.  We cannot currently sponsor new work visas
-other than TN-1s, but we can transfer existing H-1Bs.
+team.  Because we're spread out, experience with remote work is a huge
+plus.  We cannot currently sponsor new work visas other than TN-1s,
+but we can transfer existing H-1Bs.
 
 npm is not a typical early-stage “work hard/play hard” startup.  We
 are responsible adults with diverse backgrounds and interests, who
