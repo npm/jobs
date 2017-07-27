@@ -44,6 +44,9 @@ its best, and keeps the company as a whole from wandering off a cliff.
 By improving this team's ability to execute, you'll also be helping
 8.5 million people do their jobs better and faster.
 
+We will be accepting applicants for this position through August 11,
+2017.
+
 ## About working here
 
 We value communication, action, sustainability, and reflection.  We
