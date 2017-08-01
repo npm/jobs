@@ -17,7 +17,7 @@ unblocked.  You'll be an information hub within the company, driving
 many of our processes and constantly working to scale yourself and the
 team so we can do our best work on a startup budget.
 
-npm is a relatively small startup, so you will have a lot of autonomy
+npm is a relatively small company, so you will have a lot of autonomy
 and your work will be largely self-directed.  You will report directly
 to the COO, and your success will be measured by increased project
 delivery velocity and visibility as we grow the engineering
@@ -27,11 +27,12 @@ We are remarkably undogmatic about project management styles.  That
 being said, our process involves a lot of [writing things
 down](http://blog.npmjs.org/post/153881413635/some-notes-on-rfcs),
 doing the thing we wrote down, and then reflecting on how it went.  We
-practice "fix the process, not the person", and keep our post-mortems
-blame-free.  We believe that small iterations are best, and
-improvement is usually more valuable than perfection.  We apply these
-principles of documentation and iteration to our processes as well as
-our products.
+practice "[fix the process, not the
+person](https://dl.dropboxusercontent.com/u/3685/presentations/leader-leader/leader-leader.pdf)",
+and keep our post-mortems blame-free.  We believe that small
+iterations are best, and improvement is usually more valuable than
+perfection.  We apply these principles of documentation and iteration
+to our processes as well as our products.
 
 We are looking for someone who is organized enough to keep track of a
 large number of details, while also capable of zooming out and seeing
