@@ -1,6 +1,6 @@
 # Support Tech
 
-npm has 8 million users worldwide and that number is growing fast. Their use-cases are incredibly diverse: from systems administrators writing automation tools, to hobbyists building robots, to back-end engineers building mobile app APIs, to millions of front-end developers.
+npm has 8.6 million users worldwide and that number is growing fast. Their use-cases are incredibly diverse: from systems administrators writing automation tools, to hobbyists building robots, to back-end engineers building mobile app APIs, to millions of front-end developers.
 
 Our mission at npm is to reduce developer friction. We do it by building tools that make JavaScript developers' lives easier, by maintaining a registry with fantastic uptime, and by answering each of the tweets, emails, and GitHub issues that our users send us every day.
 
