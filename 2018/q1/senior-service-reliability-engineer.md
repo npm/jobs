@@ -19,12 +19,19 @@ Can you learn quickly? Are you compassionate and productive? Are you self-motiva
 
 Our services team values analysis, communication, action, sustainability, and reflection. We work collaboratively to find the best solutions to problems. We write constantly about our work, both to improve our own thinking about it and to communicate with one another. We focus on tools and processes that support our work rather than on individual heroics. Because the team is small, we also value flexibility, scrappy problem solving, and continual process improvements. We handle the largest package repository in the world, and take that responsibility seriously. If we don’t fix it, nobody else will. Your work at npm will make every JavaScript developer in the world faster and happier.
 
+### Our code of conduct
+
+npm exists to facilitate sharing code, by making it easy for JavaScript module developers to publish and distribute packages.
+npm is a piece of technology, but more importantly, it is a community.
+We believe that our mission is best served in an environment that is friendly, safe, and accepting; free from intimidation or harassment. We do not tolerate abusive behavior.
+See our unabridged code of conduct [here](https://www.npmjs.com/policies/conduct).
+
 
 ### Why you should join
 
 In joining the npm team, you'll become an important part of a small but talented engineering team. We strive to provide a sensible balance between work and non-work, and we allow you to define your own schedule. 
 
-npm embraces diversity as a core value. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be. If you need assistance or an accommodation due to a disability, please contact us, we'll be happy to assist you.
+We believe that high-performing teams include people from different backgrounds and experiences who can challenge each other's assumptions with fresh perspectives. To that end, we actively seek a diverse pool of applicants, including those from historically marginalized groups — women, people with disabilities, people of color, formerly incarcerated people, people who are lesbian, gay, bisexual, transgender, and/or gender nonconforming, first and second generation immigrants, and people from low-income families.
 
 ### Where we can hire
 
