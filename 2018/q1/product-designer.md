@@ -28,7 +28,7 @@ friendly, safe, and accepting; free from intimidation or harassment.
 We do not tolerate abusive behavior.  See our unabridged code of
 conduct [here](https://www.npmjs.com/policies/conduct).
 
-## about this role:
+## about this role
 
 You'll work closely with our head of product (who is also our CEO),
 and with our engineering team as well as other major stakeholders like
@@ -54,7 +54,7 @@ not looking for remote candidates for this position.  We cannot
 currently sponsor new work visas other than TN-1s, but we can transfer
 existing H-1Bs.
 
-## you will love this role if you:
+## you will love this role if you
 
 - value collaboration and diverse perspectives
 - enjoy brainstorming to define new products and improve existing ones
