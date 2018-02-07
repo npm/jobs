@@ -3,7 +3,7 @@
 ## about npm
 
 npm is the package manager for all JavaScript, serving code modules to
-over 11 million developers around the world. As a low-friction way to
+over 11 million developers around the globe. As a low-friction way to
 share code, it has facilitated some of the largest open source
 movements in web development. Since its invention in 2009, over
 628,000 packages have been published. In 2018, nearly everybody who
@@ -33,10 +33,9 @@ conduct [here](https://www.npmjs.com/policies/conduct).
 You'll work closely with our head of product (who is also our CEO),
 and with our engineering team as well as other major stakeholders like
 marketing, sales, and support to improve current products and envision
-new ones to add value for our users. You'll help define and drive
-forward npm's product strategy as well as produce workflows,
-information architecture, written product specs and wireframes as
-appropriate.
+new ones to add user value. You'll help define and drive forward npm's
+product strategy as well as produce workflows, information
+architecture, written product specs and wireframes as appropriate.
 
 You'll be tasked with getting inside our users' heads, applying
 empathy tactically to the puzzle of delivering a product vision within
@@ -46,9 +45,9 @@ and the challenges they face.
 
 Your first project will be to survey our website and smooth out the
 journey from "brand new user" to "satisfied customer".  In the
-fullness of time, you'll become the local expert at making sure that
-npm's product experience is consistently organized, and presented to
-the user in convenient, learnable web interfaces.
+fullness of time, you'll become the local guide to help make npm's
+product experience more consistently organized, and presented to our
+users in convenient, learnable web interfaces.
 
 This position will be based in our offices in Oakland, CA, and we are
 not looking for remote candidates for this position.  We cannot
