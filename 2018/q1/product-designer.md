@@ -33,8 +33,8 @@ conduct [here](https://www.npmjs.com/policies/conduct).
 You'll work closely with our head of product (who is also our CEO),
 and with our engineering team as well as other major stakeholders like
 marketing, sales, and support to improve current products and envision
-new ones to add user value. You'll help define and drive forward npm's
-product strategy as well as produce workflows, information
+new ones to add user value. You'll help define and clarify npm's
+entire product suite as well as produce workflows, information
 architecture, written product specs and wireframes as appropriate.
 
 You'll be tasked with getting inside our users' heads, applying
@@ -62,13 +62,3 @@ existing H-1Bs.
 - enjoy working with a variety of personal and professional styles
 - value transparency
 - value continuous growth
-
-## it may be helpful if you have experience with:
-
-- product development
-- product management
-- user experience
-- information architecture
-- web development
-- working with distributed teams
-- leadership, consulting, or teaching
