@@ -20,8 +20,7 @@ See our unabridged code of conduct [here](https://www.npmjs.com/policies/conduct
 You'll work closely with our head of product (who is also our CEO),
 and with our engineering team as well as other major
 stakeholders like marketing, sales, and support to improve current products
-and envision new ones to add value for our users. Your output will
-include workflows, information architecture, written product specs and
+and envision new ones to add value for our users. You'll help define and drive forward npm's product strategy as well as produce workflows, information architecture, written product specs and
 wireframes as appropriate.
 
 This position will be based in our offices in Oakland, CA, and we are
