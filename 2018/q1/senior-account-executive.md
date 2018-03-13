@@ -15,7 +15,7 @@ As an early member of the sales team, you will bring a diverse set of talents
 to be successful. You'll not only be prospecting and closing complex enterprise
 sales, you will also collaborate with the npm team on customer engagement strategies 
 that optimize success for both your customer and npm. This teamwork will help us
-develop the sales playbook that allows npm to scale with rapid growth.
+develop the sales playbook that allows npm to continue its rapid growth.
 
 You should be fluent in discussing software development practices as well as budget
 and execution challenges that face your customers who are managers, directors, and VP's
