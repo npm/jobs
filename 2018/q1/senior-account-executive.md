@@ -36,19 +36,18 @@ thousands of businesses and millions of developers.
 
 The position reports to the VP of Sales.
 
-## other qualifications
+## you'll love this job if you
 
-* 7+ years of experience in enterprise software or SaaS complex sales
-* Startup experience - collaborating with marketing and product management to
+* have sold enterprise software or SaaS complex sales
+* like collaborating with marketing and product management to
 help them execute strategies that support great customer experience and 
 revenue growth
-* Effective and compelling personal written and verbal communication skills
-* Able to adapt personal engagement style (e.g. challenger, relationship-builder, 
-analyzer, driver) with empathy to know the best approach to use
-* Understanding of web application development tools and practices
-* Structured and strategic approach to driving contract and pricing negotiations
-for six-figure deals
-* Anticipated travel <25%, working from our Oakland, CA office most other days
+* are creative and compelling in written and verbal communications
+* can adapt your personal engagement style (e.g. challenger, relationship-builder, 
+analyzer, driver) to fit the particular customer and situation
+* understand web application development and want to make it better for your customers
+* are a structured and strategic negotiator
+* don't mind a bit of travel, <25%, and working from our Oakland, CA office most other days
 
 
 ## about npm
