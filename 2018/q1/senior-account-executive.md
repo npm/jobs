@@ -23,10 +23,10 @@ in engineering, product development, information security, and at C-level. You'l
 that understanding to translate the impact of various solutions to help your customer
 achieve success.
 
-You should have a disciplined approach to sales, and be an effective user of automated
-sales tools to develop highly personalized and targeted multi-touch outreach. We're
-data-driven, and we focus on pipeline progress and customer interaction metrics to
-find ways to drive deal velocity to help you beat your targets.
+You should have a disciplined approach to sales, and be an effective user of 
+automated sales tools to develop highly personalized and targeted multi-touch 
+outreach. Together, we will help shape an organization designed to drive 
+deal velocity and equip customers to quickly attain their desired goals.
 
 This role gives you the unique opportunity to build sales for a startup that's 
 already widely recognized, used and loved by millions of developers. Working with
