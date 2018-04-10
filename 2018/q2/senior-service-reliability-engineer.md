@@ -29,7 +29,7 @@ See our unabridged code of conduct [here](https://www.npmjs.com/policies/conduct
 
 ### Why you should join
 
-In joining the npm team, you'll become an important part of a small but dedicated engineering team. We strive to provide a sensible balance between work and non-work, and we allow you to define your own schedule. We also understand that healthy schedules lead to better outcomes. We have support coverage overnight so we don't interrupt anyone's sleep. 
+In joining the npm team, you'll become an important part of a small but dedicated engineering team. We strive to provide a sensible balance between work and non-work, and we allow you to define your own schedule. We also understand that healthy schedules lead to better outcomes. To help ensure this balance we have contracted support night coverage so we don't interrupt anyone's sleep. 
 
 We believe that high-performing teams include people from different backgrounds and experiences who can challenge each other's assumptions with fresh perspectives. To that end, we actively seek a diverse pool of applicants, including those from historically marginalized groups — women, people with disabilities, people of color, formerly incarcerated people, people who are lesbian, gay, bisexual, transgender, and/or gender nonconforming, first and second generation immigrants, and people from low-income families.
 
