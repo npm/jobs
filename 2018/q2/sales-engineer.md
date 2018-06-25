@@ -34,7 +34,7 @@ deal velocity and equip customers to quickly attain their desired goals.
 This role gives you the unique opportunity to build solution-oriented pre-sales customer
 engagement for a startup that's already widely recognized, used and loved by 
 millions of developers. Working with a diverse team of talented (and fun) individuals, 
-twhile making web application development faster, more productive, and safer for
+while making web application development faster, more productive, and safer for
 thousands of businesses and millions of developers.
 
 The position reports to the VP of Sales
