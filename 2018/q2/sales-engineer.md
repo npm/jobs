@@ -12,10 +12,6 @@ range from $10,000 to over $100’s of thousands per year.
 
 ## about this role
 
-As an early member of the sales team, you will bring a diverse set of
-talents to be successful.  You'll be responsible for the technical
-relationships with our large, enterprise customers.
-
 As a sales engineer, your role is to educate our customers about the
 capabilities of our software, and assist them in getting the most out
 of it. This will involve working with them to formulate technical
@@ -23,9 +19,10 @@ solutions to their problems using our software, and assisting them as
 they execute on that plan. You'll help them get set up for trials, and
 build proofs-of-concept of more complex solutions.
 
-As the primary technical point of contact with your customers, you'll
-collaborate with other engineers at npm on technical and architectural
-strategies to enrich and evolve npm's enterprise products.
+You will be the primary technical point of contact with your
+customers, collaborating with other engineers at npm on technical and
+architectural strategies to enrich and evolve npm's enterprise
+products.
 
 You should have a disciplined approach to customer engagement, and use
 automation to help you manage multiple customer relationships in
@@ -41,6 +38,9 @@ used by millions of developers. You'll work with a diverse team of
 talented (and fun) individuals, while making web application
 development faster, more productive, and safer for thousands of
 businesses and millions of developers.
+
+Our sales team is still small, but growing fast.  Your diverse skill
+set will help set the direction so we can be more successful.
 
 The position reports to the VP of Sales. Your compensation will mainly
 be salary, but with the opportunity to earn bonuses based on revenue
@@ -60,8 +60,8 @@ We believe that high-performing teams include people from different
 backgrounds and experiences who can challenge each other's assumptions
 with fresh perspectives. To that end, we actively seek a diverse pool
 of applicants, including those from historically marginalized groups —
-women, people with disabilities, people of color, formerly
-incarcerated people, people who are lesbian, gay, bisexual,
+women, people with disabilities, people of color, women of color,
+formerly incarcerated people, people who are lesbian, gay, bisexual,
 transgender, and/or gender nonconforming, first and second generation
 immigrants, and people from low-income families.
 
