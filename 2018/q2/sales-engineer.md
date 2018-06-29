@@ -74,3 +74,5 @@ believe that our mission is best served in an environment that is
 friendly, safe, and accepting; free from intimidation or harassment.
 We do not tolerate abusive behavior. See our unabridged code of
 conduct [here](https://www.npmjs.com/policies/conduct).
+
+Closing date for this position is July 29, 2018.
