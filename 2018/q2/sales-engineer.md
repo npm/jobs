@@ -44,8 +44,14 @@ set will help set the direction so we can be more successful.
 
 The position reports to the VP of Sales. Your compensation will mainly
 be salary, but with the opportunity to earn bonuses based on revenue
-and customer success.  It involves some travel, but about 75% of your
-time will be based at our offices in Oakland, CA.
+and customer success.  
+
+## where we can hire
+Our headquarters are in Oakland, California, but you can be based anywhere
+in the USA. The team has members in Oakland, Seattle, Portland, Omaha, 
+Murfreesboro, England, and Poznan. If you have experience working remotely, 
+so do we. We cannot currently sponsor new work visas other than TN-1s, 
+but we can transfer existing H-1Bs.
 
 ## about npm
 
