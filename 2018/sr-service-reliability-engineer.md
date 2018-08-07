@@ -6,11 +6,11 @@ npm is the world’s largest software repository, with 11 million users and over
 
 ### What you'll do
 
-Can you learn quickly? Are you compassionate and productive? Are you self-motivated? — regardless of experience, if you answered yes, this role could be an excellent fit for you. In this role, you will have both the freedom and the responsibility to make a significant impact on our systems. You’ll get the chance to:
+Can you learn quickly? Are you compassionate and productive? Are you self-motivated? are some of your favorite topics log rotation and scaling distributed infrastructure? — regardless of experience, if you answered yes, this role could be an excellent fit for you. In this role, you will have both the freedom and the responsibility to make a significant impact on our systems. You’ll get the chance to:
 
-  -  contribute to many of npm’s open source projects
+  -  contribute to many of npm’s open source infrastructure projects
   -  work on automating our operations and configuration
-  -  improve existing code bases, replacing code with greenfield work
+  -  improve existing infrastructure, replacing existing systems with greenfield work
   -  evolve our systems to scale for the load we expect to see next year, not merely the load we’re handling today
   -  investigate problems and discover the right tools to solve them
 
