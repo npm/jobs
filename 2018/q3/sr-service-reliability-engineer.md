@@ -35,6 +35,6 @@ We believe that high-performing teams include people from different backgrounds 
 
 ### Where we can hire
 
-Our headquarters are in Oakland, California. The services team has members in across the US, the UK, and Poland. If you have experience working remotely, so do we. We cannot currently sponsor new work visas other than TN-1s, but we can transfer existing H-1Bs.
+Our headquarters are in Oakland, California. The services team is hiring worldwide remote humans. We can best support you if you can overlap with US timezones. We currently have members located across the US, the UK, and Poland. If you have experience working remotely, so do we. We cannot currently sponsor new work visas other than TN-1s, but we can transfer existing H-1Bs.
 
 
