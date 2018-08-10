@@ -2,7 +2,7 @@
 
 ### Who we are
 
-npm is the world’s largest software repository, with 11 million users and over 24 software package billion downloads every month. The mesh of microservices and data sources that comprise the npm registry is complex, interesting, and critical to the daily work of millions of JavaScript programmers. Our software and systems are constantly in flux as we adapt to nearly exponential growth. We need you to help us with this never-ending, always-changing task.
+npm is the world’s largest software repository, with 11 million users and over 24 billion software package downloads every month. The mesh of microservices and data sources that comprise the npm registry is complex, interesting, and critical to the daily work of millions of JavaScript programmers. Our software and systems are constantly in flux as we adapt to nearly exponential growth. We need you to help us with this never-ending, always-changing task.
 
 ### What you'll do
 
