@@ -4,7 +4,7 @@
 
 npm is the world’s largest software repository, with 11 million users. Their use-cases are incredibly diverse: from systems administrators writing automation tools, to hobbyists building robots, to back-end engineers building mobile app APIs, to millions of front-end developers.
 
-Our mission at npm is to reduce developer friction. We do it by building tools that make JavaScript developers' lives easier, by maintaining a registry with fantastic uptime, and by answering the tweets, emails, and post at npm.community that our users send us every day.
+Our mission at npm is to reduce developer friction. We do it by building tools that make JavaScript developers' lives easier, by maintaining a registry with fantastic uptime, and by answering the tweets, emails, and posts at npm.community that our users send us every day.
 
 npm has been successful because we care about our users. "npm loves you" is not just marketing; it's a core company value. Users frequently report our responsive and friendly support team as a key reason why they love our products.
 
