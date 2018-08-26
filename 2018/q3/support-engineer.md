@@ -10,11 +10,11 @@ npm has been successful because we care about our users. "npm loves you" is not 
 
 ### What you'll do
 
-The right people for this job combine empathy and communication skills with a passion for solving technical problems. Experience with Open Source and customer service are beneficial, but not required. Much more critical is a friendly, positive attitude and finding joy in helping people.
+Are you inquisitive and can learn quickly? Are you self-motivated? Do you enjoy using npm and JavaScript?  — regardless of experience, if you answered yes, this role could be an excellent fit for you. The right people for this job combine empathy and communication skills with a passion for solving technical problems.
 
 Your job will be to serve as an escalation line for support, addressing some of the more involved issues, partnering with the team to track bugs and respond to incidents, and solving the unusual or complicated cases yourself, with the help of every member of the engineering team.
 
-By directly helping our users and customers, and interacting with every member of the team, you'll gain the kind of cross-company insight that is so valuable to a career in technology.
+By directly helping our user and customers, our support team, and interacting with every member of the team, you'll gain the kind of cross-company insight that is so valuable to a career in technology.
 
 ### Our code of conduct
 
@@ -28,4 +28,4 @@ We believe that high-performing teams include people from different backgrounds 
 
 ### Where we can hire
 
-Our headquarters are in Oakland, California. The support team is hiring worldwide remote humans. We can best support you if you can overlap with US timezones. We currently have members located across the US, the UK, and Poland. If you have experience working remotely, so do we. We cannot currently sponsor new work visas other than TN-1s, but we can transfer existing H-1Bs.
+Our headquarters are in Oakland, California. The support team is also open to hiring worldwide remote humans. We can best support you if you can overlap with US timezones. We currently have employees located across the US, the UK, and Poland. If you have experience working remotely, so do we. We cannot currently sponsor new work visas other than TN-1s, but we can transfer existing H-1Bs.
