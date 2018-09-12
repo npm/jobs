@@ -8,12 +8,12 @@ npm, Inc. is the company behind this revolution, developing products
 to bring value to enterprises in every vertical.  It is not an
 exaggeration to say that npm has shaped how JavaScript is done.
 
-As Vice President of Product, you will lead our product development
-efforts with effective processes, user-focused insight, and market
-analysis.  You will work closely with npm's inventor, leading a team
-of product managers and designers who are passionate and dedicated to
-developing the lines of business that provide the financial backing to
-keep this movement from slowing down.
+As Vice President of Product, you will facilitate our product
+development efforts with effective processes, user-focused insight,
+and market research.  You will work closely with npm's inventor,
+leading a team of product managers and designers who are passionate
+and dedicated to developing the lines of business that provide the
+financial backing to keep this movement from slowing down.
 
 Working with a team of brilliant innovators and pragmatic thinkers,
 your role as VP of Product will allow you to make a significant impact
@@ -51,6 +51,8 @@ it into a sustainable and profitable business.
   of npm, aligning on the outcomes we must achieve, and empowering the
   team to define and execute the output, tasks, features, and products
   that deliver the most value to our customers.
+- Work with business development process, framing potential
+  partnership opportunities.
 
 ## Requirements
 
@@ -76,3 +78,46 @@ You should have direct, deep experience in the following:
 - Expert level management skills, building rapport within and between
   teams, providing candid and constructive feedback, and facilitating
   healthy and sustainable working practices.
+- Identifying opportunities for short and long term mutual benefit
+  with technical and product stakeholders at external partner
+  companies.
+
+## Why you should join
+
+- Competitive salary
+- Meaningful equity
+- Working with a supportive and diverse team
+- Industry-leading parental leave and PTO policies
+
+In joining the npm team, you'll become an important part of a small
+but dedicated product team.  We strive to provide a sensible
+balance between work and non-work, and we allow you to define your own
+schedule.  We also understand that healthy schedules lead to better
+outcomes.
+
+We believe that high-performing teams include people from different
+backgrounds and experiences who can challenge each other's assumptions
+with fresh perspectives.  To that end, we actively seek a diverse pool
+of applicants, including those from historically marginalized groups —
+women, people with disabilities, people of color, formerly
+incarcerated people, people who are lesbian, gay, bisexual,
+transgender, and/or gender nonconforming, first and second generation
+immigrants, and people from low-income families.
+
+## Our code of conduct
+
+npm exists to facilitate sharing code, by making it easy for
+JavaScript module developers to publish and distribute packages.  npm
+is a piece of technology, but more importantly, it is a community.  We
+believe that our mission is best served in an environment that is
+friendly, safe, and accepting; free from intimidation or harassment.
+We do not tolerate abusive behavior.  See our unabridged code of
+conduct [here](https://www.npmjs.com/policies/conduct).
+
+## Where we can hire
+
+Our headquarters are in Oakland, California.  The team has
+members in Oakland, Seattle, Portland, Brooklyn, England, Panama, and
+Poznan.  If you have experience working remotely, so do we.  We cannot
+currently sponsor new work visas other than TN-1s, but we can transfer
+existing H-1Bs.
