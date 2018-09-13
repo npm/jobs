@@ -75,8 +75,8 @@ immigrants, and people from low-income families.
 
 ## Where we can hire
 
-Our headquarters are in Oakland, California.  The team has
-members in Oakland, Seattle, Portland, Brooklyn, England, Panama,
-Poznan, and more.  If you have experience working remotely, so do we.  We cannot
+Our headquarters are in Oakland, California. The product team is hiring
+worldwide. We can best support you if you can overlap with US time zones.
+If you have experience working remotely, so do we.  We cannot
 currently sponsor new work visas other than TN-1s, but we can transfer
 existing H-1Bs.
