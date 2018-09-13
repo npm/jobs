@@ -33,17 +33,15 @@ Include 2 or 3 examples of your documentation work; they do not need to be relat
 
 - You have experience using Jekyll or another static site generator for product documentation
 - You are comfortable using Git and GitHub in a documentation workflow
-- You have user experience design or UX research (or an interest in such)
 
 ## Why you should join
 
 - Competitive salary
-- Meaningful equity
 - Working with a supportive and diverse team
 - Industry-leading parental leave and PTO policies
 
 In joining the npm team, you'll become an important part of a small
-but dedicated product team.  We strive to provide a sensible
+but dedicated knowledge management team.  We strive to provide a sensible
 balance between work and non-work, and we allow you to define your own
 schedule.  We also understand that healthy schedules lead to better
 outcomes.
