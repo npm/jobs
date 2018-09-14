@@ -38,8 +38,9 @@ it into a sustainable and profitable business.
 - Establish and manage scalable and repeatable processes for user
   research, market analysis, forecasting, and design.
 - Work with product managers, subject matter experts, engineering,
-  marketing, sales, support, and the rest of the ELT to define a
-  product roadmap that is both feasible and compelling.
+  marketing, sales, support, and the rest of the executive leadership
+  teamto define a product roadmap that is both feasible and
+  compelling.
 - Provide clear accountability and mentorship for product managers,
   raising the bar for product excellence within the team that reports
   to you.
@@ -56,9 +57,9 @@ it into a sustainable and profitable business.
 
 ## Requirements
 
-We're looking for someone who has done this before.  At least 10 years
-experience working in product management is required, with at least
-half of that in a managerial role.
+We're looking for someone who has done this before.  At least 7 years
+experience working in product management in some capacity is required,
+with significant management experience.
 
 Since npm plays such an important role in the Open Source JavaScript
 community, experience with technical communities is a must.  A
@@ -116,8 +117,8 @@ conduct [here](https://www.npmjs.com/policies/conduct).
 
 ## Where we can hire
 
-Our headquarters are in Oakland, California.  The team has
-members in Oakland, Seattle, Portland, Brooklyn, England, Panama, and
-Poznan.  If you have experience working remotely, so do we.  We cannot
-currently sponsor new work visas other than TN-1s, but we can transfer
-existing H-1Bs.
+Our headquarters are in Oakland, California.  The product team is
+hiring worldwide. We can best support you if you can overlap with US
+time zones.  If you have experience working remotely, so do we.  We
+cannot currently sponsor new work visas other than TN-1s, but we can
+transfer existing H-1Bs.
