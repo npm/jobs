@@ -15,9 +15,9 @@ npm is dedicated to providing a harassment-free experience for everyone, regardl
 
 ## About this role
 
-We are looking for a product documentation writer to create useful, usable, and trustworthy help content for beginner to advanced npm users. Your goal will be to empower our users to develop JavaScript applications with the npm website, CLI, and other products and features as easily and painlessly as possible.
+We are looking for a product documentation writer to create and maintain help content for beginner to advanced npm users. Your goal will be to empower our users to develop JavaScript applications with the npm website, CLI, and other products and features as easily and painlessly as possible.
 
-This role will report to the Director of Knowledge Management and will not only include updating documentation in response to product ships, but strategic content projects to help us deliver a high-quality overall user experience. You will have opportunities to collaborate with our Product, Engineering, Community, Support, and Marketing teams to refine product interfaces, understand user needs, and develop consistent, compelling messaging across communication channels. We take your expertise seriously and consider knowledge an asset, not an afterthought.
+This position will report to the Director of Knowledge Management and play a key role in the department's overall vision of making knowledge findable, usable, and trustworthy across the company. You will have opportunities to collaborate across teams at every stage of the product development cycle; we consider your insight and work an asset, not an afterthought.
 
 Include 2 or 3 examples of your documentation work; they do not need to be related to npm.
 
