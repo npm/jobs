@@ -15,9 +15,9 @@ npm is dedicated to providing a harassment-free experience for everyone, regardl
 
 ## About this role
 
-We are looking for a product documentation writer to create useful, usable, and trustworthy help content for beginner to advanced npm users and customers. Your goal will be to empower our users to develop JavaScript applications with the npm CLI, website, and other products as easily and painlessly as possible.
+We are looking for a product documentation writer to create useful, usable, and trustworthy help content for beginner to advanced npm users. Your goal will be to empower our users to develop JavaScript applications with the npm website, CLI, and other products and features as easily and painlessly as possible.
 
-You will be responsible for planning, creating, and maintaining task-based documentation articles, API reference documentation, contextual help content, and other user assistance content as needed.
+This role will report to the Director of Knowledge Management and will not only include updating documentation in response to product ships, but strategic content projects to help us deliver a high-quality overall user experience. You will have opportunities to collaborate with our Product, Engineering, Community, Support, and Marketing teams to refine product interfaces, understand user needs, and develop consistent, compelling messaging across communication channels. We take your expertise seriously and consider knowledge an asset, not an afterthought.
 
 Include 2 or 3 examples of your documentation work; they do not need to be related to npm.
 
@@ -25,7 +25,7 @@ Include 2 or 3 examples of your documentation work; they do not need to be relat
 
 - Creating a content plan for documenting new and updated features and products
 - Triaging and prioritizing content requests from across the company
-- Creating and updating documentation and other user assistance content
+- Creating and updating documentation articles, API reference documentation, contextual help content, and other user assistance content as needed
 - Gathering user and customer feedback from support requests and the npm community forum
 - Using metrics to plan documentation improvement projects
 
@@ -33,6 +33,7 @@ Include 2 or 3 examples of your documentation work; they do not need to be relat
 
 - You have experience using Jekyll or another static site generator for product documentation
 - You are comfortable using Git and GitHub in a documentation workflow
+- You are interested in complex information architecture problems
 
 ## Why you should join
 
