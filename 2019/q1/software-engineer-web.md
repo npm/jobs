@@ -9,7 +9,7 @@ npm is the world’s largest software repository, with 11 million users and over
 Have you noticed the brand new npm website? We shipped that. Would you like to work on it with us? Our team values empathy for the people we work with and the community we work for. We support each other. We are purposeful in our actions and effective at collaboration. Clear documentation is a part of our process from our READMEs to our pull requests. We love pairing and actively seek out one another's input.
 
 In this position, you’ll get to:
--  Work with a modern web framework [React] to deliver features and products.
+-  Work with a modern web framework (React) to deliver features and products.
 -  Write internal documentation. This includes RFCs for new features as well as descriptions of APIs.
 - Collaborate with teams across the entire company from sales and marketing to support to other parts of engineering. The website is one of the few places where you’ll find stakeholders in every department.
 - Contribute to one of many open source projects that we maintain for the community.
